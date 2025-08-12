@@ -14,7 +14,7 @@
 1.0 $\mu$L ds iTru EcoRI # adapter (5 $\mu$M) (# = 1, 2, ... 12; see Table 2)
 5.0 $\mu$L genomic DNA (20 ng/$\mu$L; if dilute, use more volume & take out water) 
 
-3. Incubate samples at \SI{37}{\celsius} for 2 hr [Note Simon: This is double the incubation time compared to the original protocol]. in a thermal cycler, then immediately...
+3. Incubate samples at $37^oC$ for 2 hr [Note Simon: This is double the incubation time compared to the original protocol]. in a thermal cycler, then immediately...
 
 4. Add Ligation mix (recipe per sample): 
 2.0 $\mu$L dH2O 
@@ -23,7 +23,7 @@
 1.0 $\mu$L DNA ligase [100 units/$\mu$L; make from 400 units/$\mu$L stock]
 5.0 $\mu$L Total  [makes a grand total of 20 $\mu$L in each tube]
 
-5. Perform 4 cycles of (\SI{22}{\celsius} for 20 min., \SI{37}{\celsius} for 10 min.), followed by \SI{80}{\celsius} for 20 min., \SI{10}{\celsius} forever. [Note Simon: This is two times more cycles of ligation than the original protocol]
+5. Perform 4 cycles of $22^oC$ for 20 min., $37^oC$ for 10 min.), followed by $80^oC$ for 20 min., $10^oC$ forever. [Note Simon: This is two times more cycles of ligation than the original protocol]
 
 6. Pooling step 1:  Using the multi-channel pipette and changing tips each time, skloosh, then take 10 �L from each ligation and add it to a strip tube � thus from a 96-well plate, each tube in the strip will have 120 �L.  Seal the plate with foil, label it well, and freeze it for potential use later.
 
