@@ -2,7 +2,7 @@
 (with modifications by Simon Joly, March 2024)
 
 
-1. Normalize all DNA samples to 20 ng/$\mu$L (quantified on Qubit), placing $\geq$20 ng/$\mu$L in plates or strip tubes.  Protocol will work with much less DNA, but $\geq$5 ng/$\mu$L is best.
+1. Normalize all DNA samples to 20 ng/$mu$L (quantified on Qubit), placing $\geq$20 ng/$\mu$L in plates or strip tubes.  Protocol will work with much less DNA, but $\geq$5 ng/$\mu$L is best.
 
 2. Double Enzyme Digest Recipe (per DNA sample & unique adapter combo):
 1.5 $\mu$L  NEB 10x CutSmart Buffer 
