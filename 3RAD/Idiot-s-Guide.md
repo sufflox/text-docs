@@ -10,8 +10,3 @@ The Read-1 and -2 adapters are the iTru adapters.
   * ds iTru-EcoR-I is the double-stranded adapter that will stick to EcoR-I cut sites. It barcodes the 12 columns on the 96-well plate.
     
 The 8x12=96 combinations of the two adapters generate unique sequences that identify each individual sample on a 96-well plate.
-
-------------------------------------------------------------------------------------------------
-...& so on and so forth.
-
-This repo is meant to contain text docs related to the most current things I'm working on and researching for my msc project at the JBM. The themes are going to vary (3RAD labwork, study notes, newsletters and essays for my website). 
